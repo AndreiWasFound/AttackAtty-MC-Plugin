@@ -1,0 +1,7 @@
+main: me.andreiwasfound.attackatty.AttackAtty
+name: AttackAtty
+version: 1.0
+author: AndreiWasFound
+
+commands:
+  Bonus:
